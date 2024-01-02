@@ -6,7 +6,7 @@ For models regarding binary fracture prediction, please go to:\
 A) SVM: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SVM_mof_hip.ipynb \ 
 B) RF: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_RF_mof_hip.ipynb \
 C) XGB: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_XGB_mof_hip.ipynb \
-D) ANN: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_ANN_mof_hip.ipynb \
+D) ANN: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_ANN_mof_hip.ipynb 
 
 For Bayesian optimization and grid search regarding binary fracture prediction, please go to: \\
 A) SVM: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SVM_bayes_grid_binary.ipynb \\ 
