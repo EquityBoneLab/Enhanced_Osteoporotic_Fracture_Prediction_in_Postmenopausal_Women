@@ -12,7 +12,7 @@ For Bayesian optimization and grid search regarding binary fracture prediction, 
 A) SVM: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SVM_bayes_grid_binary.ipynb \ 
 B) RF: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_RF_bayes_grid_binary.ipynb \
 C) XGB: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_XGB_bayes_grid_binary.ipynb \
-D) ANN (also used for fracture risk prediction): https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_ANN_bayes_grid_mof.ipynb \ 
+D) ANN (also used for fracture risk prediction): https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_ANN_bayes_grid_mof.ipynb  
        and https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_ANN_bayes_grid_hip%20.ipynb \ 
 
 For models regarding fracture risk prediction, please go to:\
@@ -37,11 +37,11 @@ For getting risk score and reclassification analysis, please go to:\
 A) SVM: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SSVM_reclassification.ipynb \
 B) RF: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SRF_reclassification.ipynb \
 C) XGB: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SXGB_reclassification.ipynb \
-D) ANN: \ 
+D) ANN: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SANN_reclassification.ipynb \ 
 E) Reclassification analysis: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_Reclassification.R \
-F) Regularized Levenberg-Marquardt algorithm for converting risk scores to probability: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/levenberg_marquardt.py \
+F) Regularized Levenberg-Marquardt algorithm for converting risk scores to probability: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/levenberg_marquardt.py
 
 For other complementary analysis in this study, please go to:\
 A) 95% confidence interval calculation: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/CI95_cal.ipynb \
 B) Feature importance for XGB model: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_feature_importance_SXGB_mof.ipynb \
-C) Plotting: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_runall_XGB_plot.py \
+C) Plotting: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_runall_XGB_plot.py 
