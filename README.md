@@ -21,7 +21,7 @@ A) SVM: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Predicti
 B) RF: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SRF_mof_risk.ipynb 
     and https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SRF_hip_SMOTE.ipynb \
 C) XGB: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SXGB_mof.ipynb 
-    and https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SXGB_hip_SMOTE.ipynb \ 
+    and https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_SXGB_hip_SMOTE.ipynb \
 D) ANN:  
 
 For Bayesian optimization and grid search regarding fracture risk prediction, please go to:\
