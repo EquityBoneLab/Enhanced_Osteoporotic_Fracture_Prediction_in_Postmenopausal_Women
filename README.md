@@ -49,5 +49,5 @@ F) Regularized Levenberg-Marquardt algorithm for converting risk scores to proba
 
 For other complementary analysis in this study, please go to:\
 A) 95% confidence interval calculation: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/CI95_cal.ipynb \
-B) Feature importance for XGB model: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_feature_importance_SXGB_mof.ipynb \
+B) Feature importance for XGB model: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_feature_importance_SXGB_mof.ipynb  and https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_feature_importance_SXGB_hip.ipynb \
 C) Plotting: https://github.com/EquityBoneLab/Enhanced_Osteoporotic_Fracture_Prediction_in_Postmenopausal_Women/blob/main/Model/github_runall_XGB_plot.py 
